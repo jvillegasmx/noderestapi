@@ -31,7 +31,7 @@ EndPoints
         "Description": "Event description",
         "Price": 900,
         "Phone": "310-310-4563",
-        "Email": "brian@gmail.com",
+        "Email": "email@gmail.com",
         "Event_url": "http://google.com",
         "Ticket_url": "http://google.com",
         "Photo": "http://URL",
