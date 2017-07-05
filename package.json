@@ -1,0 +1,31 @@
+{
+  "name": "embracela",
+  "version": "1.0.0",
+  "description": "Basic API REST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvillegasmx/noderestapi.git"
+  },
+  "keywords": [
+    "REST",
+    "Api",
+    "Basic"
+  ],
+  "author": "Javier Villegas",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jvillegasmx/noderestapi/issues"
+  },
+  "homepage": "https://github.com/jvillegasmx/noderestapi#readme",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.10.8"
+  }
+}
